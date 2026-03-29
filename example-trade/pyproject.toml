@@ -1,0 +1,10 @@
+[project]
+name = "example-trade"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "hyperliquid-python-sdk>=0.22.0",
+    "typer>=0.24.1",
+]
